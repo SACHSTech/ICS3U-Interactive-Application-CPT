@@ -1,9 +1,7 @@
 # Assessment – ICS3U Culminating Performance Task (CPT)
 
 This document outlines how your CPT will be evaluated.  
-
 Assessment is based on two complementary components that together measure both **what you built** and **what you understand**.
-
 
 
 ## Assessment Overview
@@ -15,13 +13,11 @@ The ICS3U CPT is worth **15% of your final course grade** and is assessed in **t
 
 Each part is evaluated separately and uses its own rubric.
 
-
+<br>
 
 # Part A – GitHub Submission Rubric (50%)
 
 Your GitHub repository will be downloaded, run locally, and reviewed by the teacher.
-
-
 
 ## Technical Implementation & Concept Mastery (30%)
 
@@ -34,7 +30,6 @@ Concepts include variables, expressions, user input, conditionals, loops, method
 | **Level 3** | Demonstrates **effective use of most required programming concepts**. Program logic works correctly, though some concepts may be simplified or underused. |
 | **Level 2** | Demonstrates **partial or inconsistent use of required programming concepts**. Some concepts are missing, misapplied, or used only superficially. |
 | **Level 1** | Demonstrates **minimal or ineffective use of required programming concepts**. Major gaps in understanding or implementation are evident. |
-
 
 
 ## Code Quality & Overall Design (10%)
@@ -63,62 +58,64 @@ Includes commit history, README quality, and asset attribution where applicable.
 | **Level 2** | Some commits are present but progress is uneven or unclear. README is brief, unclear, or missing key information. |
 | **Level 1** | Few or no meaningful commits. README is missing, incomplete, or unprofessional. |
 
-
+<br>
 
 # Part B – Technical Interview Rubric (50%)
 
-You will participate in a **10–15 minute in-class technical interview**.
+You will participate in a **10–15 minute in-class technical interview**.  
+Evidence of understanding may be demonstrated through explanation, discussion, debugging, live coding, or reconstruction of program features.
 
 
-## Code Familiarity
 
-**Assesses how well you know and can navigate your own codebase.**
+## Code Familiarity & Ownership
+
+**Assesses the extent to which the student demonstrates ownership of and familiarity with their own codebase.**
 
 | Level | Descriptor |
 |------|------------|
-| **Level 4** | Clearly and confidently explains how the program works and where features are implemented. |
-| **Level 3** | Generally familiar with the codebase, with occasional uncertainty or prompting required. |
-| **Level 2** | Limited familiarity with parts of the code; explanations are vague or incomplete. |
-| **Level 1** | Unable to explain major portions of the codebase. |
+| **Level 4** | Demonstrates clear ownership of the codebase. Navigates code confidently, explains functionality accurately, and can modify or extend existing code when prompted. |
+| **Level 3** | Demonstrates general familiarity with the codebase. Can explain most features, with occasional hesitation or prompting. |
+| **Level 2** | Demonstrates limited familiarity. Can identify some features but struggles to explain how they work. |
+| **Level 1** | Demonstrates little to no familiarity with the codebase. Unable to explain or work with major portions of the program. |
 
 
 ## Conceptual Understanding
 
-**Assesses understanding of programming concepts used in the project.**
+**Assesses the student’s understanding of programming concepts used in the project, demonstrated through explanation, application, or live coding.**
 
 | Level | Descriptor |
 |------|------------|
-| **Level 4** | Explains concepts clearly and accurately, using correct terminology and examples from the code. |
+| **Level 4** | Demonstrates strong understanding of concepts. Accurately explains or applies ideas using correct terminology and relevant examples from the code. |
 | **Level 3** | Demonstrates solid understanding of most concepts, with minor gaps or imprecise explanations. |
-| **Level 2** | Shows partial understanding; explanations are simplistic or occasionally incorrect. |
-| **Level 1** | Demonstrates little understanding of the concepts used. |
+| **Level 2** | Demonstrates partial understanding. Explanations or applications are simplistic, incomplete, or occasionally incorrect. |
+| **Level 1** | Demonstrates minimal understanding of the concepts used in the project. |
 
 
-## Design Reasoning
+## Reasoning, Adaptation & Reconstruction
 
-**Assesses ability to justify design decisions and discuss alternatives.**
-
-| Level | Descriptor |
-|------|------------|
-| **Level 4** | Clearly explains design choices and can reason about tradeoffs or improvements. |
-| **Level 3** | Explains most design decisions but with limited depth or flexibility. |
-| **Level 2** | Provides surface-level explanations with little justification. |
-| **Level 1** | Unable to justify design decisions. |
-
-
-## Transfer & Adaptability
-
-**Assesses ability to apply understanding to new or hypothetical situations.**
+**Assesses the student’s ability to reason about their program, adapt ideas, or reconstruct features in new or simplified contexts.**
 
 | Level | Descriptor |
 |------|------------|
-| **Level 4** | Responds thoughtfully to hypotheticals and can adapt ideas or logic to new scenarios. |
-| **Level 3** | Responds reasonably to hypotheticals with some guidance. |
-| **Level 2** | Struggles to adapt ideas beyond the existing code. |
-| **Level 1** | Unable to apply understanding beyond the original implementation. |
+| **Level 4** | Reasoning is clear and flexible. Student can adapt logic, respond thoughtfully to hypotheticals, or recreate features through discussion or live coding. |
+| **Level 3** | Reasoning is generally sound. Student can adapt or reconstruct ideas with some guidance. |
+| **Level 2** | Reasoning is limited. Student struggles to adapt ideas beyond the original implementation. |
+| **Level 1** | Unable to reason about, adapt, or reconstruct program logic. |
+
+
+## Independence & Authenticity
+
+**Assesses the degree to which the work appears to reflect the student’s own independent understanding and effort.**
+
+| Level | Descriptor |
+|------|------------|
+| **Level 4** | Demonstrates strong independence and authenticity. Shows fluency, confidence, and consistent understanding across explanations or coding tasks. |
+| **Level 3** | Demonstrates general independence, with some reliance on memorized patterns or guidance. |
+| **Level 2** | Demonstrates limited independence. Responses suggest surface-level familiarity rather than deep understanding. |
+| **Level 1** | Demonstrates little evidence of independent understanding or authentic ownership of the work. |
 
 
 ## Final Notes
 
 Professional judgment is used when applying all rubrics.  
-Clear understanding and honest ownership of your work are essential for success on this CPT.
+Understanding may be demonstrated in different ways, and interview format may vary to best assess student learning.
