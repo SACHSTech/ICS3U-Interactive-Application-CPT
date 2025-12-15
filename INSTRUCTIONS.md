@@ -1,5 +1,5 @@
 # ICS3U – Culminating Performance Task (CPT)
-**Interactive Application using Java & Processing**
+### Interactive Application using Java & Processing
 
 
 ## Overview
