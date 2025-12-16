@@ -67,49 +67,38 @@ Evidence of understanding may be demonstrated through explanation, discussion, d
 
 
 
-## Code Familiarity & Ownership
+## Ownership & Familiarity
 
-**Assesses the extent to which the student demonstrates ownership of and familiarity with their own codebase.**
+**Assesses whether the student demonstrates clear ownership of and familiarity with their own codebase.**
 
 | Level | Descriptor |
 |------|------------|
-| **Level 4** | Demonstrates clear ownership of the codebase. Navigates code confidently, explains functionality accurately, and can modify or extend existing code when prompted. |
-| **Level 3** | Demonstrates general familiarity with the codebase. Can explain most features, with occasional hesitation or prompting. |
+| **Level 4** | Demonstrates strong ownership of the code. Navigates the codebase confidently and accurately explains how key features work. |
+| **Level 3** | Demonstrates general familiarity with the code. Can explain most features, with occasional hesitation or prompting. |
 | **Level 2** | Demonstrates limited familiarity. Can identify some features but struggles to explain how they work. |
-| **Level 1** | Demonstrates little to no familiarity with the codebase. Unable to explain or work with major portions of the program. |
+| **Level 1** | Demonstrates little to no familiarity with the codebase. Unable to explain major portions of the program. |
 
 
-## Conceptual Understanding
+## Conceptual Understanding & Reasoning
 
-**Assesses the student’s understanding of programming concepts used in the project, demonstrated through explanation, application, or live coding.**
+**Assesses the student’s understanding of the programming concepts used and their ability to reason with those ideas.**  
+Understanding may be demonstrated through explanation, tracing logic, adapting ideas, or live coding.
 
 | Level | Descriptor |
 |------|------------|
-| **Level 4** | Demonstrates strong understanding of concepts. Accurately explains or applies ideas using correct terminology and relevant examples from the code. |
-| **Level 3** | Demonstrates solid understanding of most concepts, with minor gaps or imprecise explanations. |
-| **Level 2** | Demonstrates partial understanding. Explanations or applications are simplistic, incomplete, or occasionally incorrect. |
+| **Level 4** | Demonstrates strong understanding of concepts and can reason flexibly about the program. Accurately explains or adapts logic in response to questions or scenarios. |
+| **Level 3** | Demonstrates solid understanding of most concepts, with minor gaps or need for guidance when reasoning through changes. |
+| **Level 2** | Demonstrates partial understanding. Reasoning is limited, simplistic, or inconsistent. |
 | **Level 1** | Demonstrates minimal understanding of the concepts used in the project. |
-
-
-## Reasoning, Adaptation & Reconstruction
-
-**Assesses the student’s ability to reason about their program, adapt ideas, or reconstruct features in new or simplified contexts.**
-
-| Level | Descriptor |
-|------|------------|
-| **Level 4** | Reasoning is clear and flexible. Student can adapt logic, respond thoughtfully to hypotheticals, or recreate features through discussion or live coding. |
-| **Level 3** | Reasoning is generally sound. Student can adapt or reconstruct ideas with some guidance. |
-| **Level 2** | Reasoning is limited. Student struggles to adapt ideas beyond the original implementation. |
-| **Level 1** | Unable to reason about, adapt, or reconstruct program logic. |
 
 
 ## Independence & Authenticity
 
-**Assesses the degree to which the work appears to reflect the student’s own independent understanding and effort.**
+**Assesses the degree to which the work reflects the student’s own independent understanding and effort.**
 
 | Level | Descriptor |
 |------|------------|
-| **Level 4** | Demonstrates strong independence and authenticity. Shows fluency, confidence, and consistent understanding across explanations or coding tasks. |
+| **Level 4** | Demonstrates strong independence and authenticity. Responses and reasoning consistently reflect the student’s own thinking and understanding. |
 | **Level 3** | Demonstrates general independence, with some reliance on memorized patterns or guidance. |
 | **Level 2** | Demonstrates limited independence. Responses suggest surface-level familiarity rather than deep understanding. |
 | **Level 1** | Demonstrates little evidence of independent understanding or authentic ownership of the work. |

@@ -133,9 +133,13 @@ This CPT is assessed in **two parts**:
 - **Part A – GitHub Submission (50%)**
 - **Part B – Technical Interview (50%)**
 
-Full assessment criteria and rubrics for both components are provided in **[ASSESSMENT.md](ASSESSMENT.md)**.
+Full assessment criteria and rubrics for both components are provided in **[ASSESSMENT.md](ASSESSMENT.md)**. 
+
+Details about the format, purpose, and expectations of the technical interview are provided in  
+**[INTERVIEW.md](INTERVIEW.md)**.
 
 You are strongly encouraged to review the assessment document before and during development.
+
 
 
 
@@ -155,7 +159,7 @@ During the technical interview, you will be expected to demonstrate familiarity 
 
 ## Timeline
 
-You will be given approximately 10 in-class periods to work on this project before and after the holiday break.
+You will be given approximately 10 in-class periods to work on this project before and after the holiday break. 
 
 Regular progress is expected. Avoid leaving the majority of work until the final days.
 

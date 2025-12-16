@@ -1,6 +1,6 @@
 # ICS3U CPT – Interactive Processing Project
 
-This repository contains your **ICS3U Culminating Performance Task (CPT)**.
+This repository contains your ICS3U Culminating Performance Task (CPT).
 
 ### Start here:
 Please read the full project instructions in **[INSTRUCTIONS.md](INSTRUCTIONS.md)**.
