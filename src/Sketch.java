@@ -5,6 +5,8 @@ import processing.core.PApplet;
  * @author Your Name
  */
 public class Sketch extends PApplet {
+    int overallTime;
+
     public static void main(String[] args) {
         PApplet.main("Sketch");
     }
@@ -21,6 +23,9 @@ public class Sketch extends PApplet {
 
     @Override
     public void draw() {
+        overallTime = millis();
+
+        System.out.println(overallTime);
 
     }
 
