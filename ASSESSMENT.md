@@ -26,10 +26,10 @@ Concepts include variables, expressions, user input, conditionals, loops, method
 
 | Level | Descriptor |
 |:-----:|------------|
-| **4** | Demonstrates **highly effective use of all required programming concepts**. Concepts are integrated naturally into the program’s logic and clearly support interactivity, behaviour, and state. |
-| **3** | Demonstrates **effective use of most required programming concepts**. Program logic works correctly, though some concepts may be simplified or underused. |
-| **2** | Demonstrates **partial or inconsistent use of required programming concepts**. Some concepts are missing, misapplied, or used only superficially. |
-| **1** | Demonstrates **minimal or ineffective use of required programming concepts**. Major gaps in understanding or implementation are evident. |
+| **4** | Demonstrates highly effective use of all required programming concepts. Concepts are integrated naturally into the program’s logic and clearly support interactivity, behaviour, and state. |
+| **3** | Demonstrates effective use of most required programming concepts. Program logic works correctly, though some concepts may be simplified or underused. |
+| **2** | Demonstrates partial or inconsistent use of required programming concepts. Some concepts are missing, misapplied, or used only superficially. |
+| **1** | Demonstrates minimal or ineffective use of required programming concepts. Major gaps in understanding or implementation are evident. |
 
 
 ## Code Quality & Overall Design (10%)
