@@ -19,6 +19,8 @@ Each part is evaluated separately and uses its own rubric.
 
 Your GitHub repository will be downloaded, run locally, and reviewed by the teacher.
 
+> **Note:** Your program must run to a level sufficient for review. A project that does not run cannot be fully assessed on technical criteria.
+
 ## Technical Implementation & Concept Mastery (30%)
 
 **Assesses how effectively and appropriately the required programming concepts are demonstrated throughout the project.**  
